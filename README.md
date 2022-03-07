@@ -46,3 +46,13 @@
 ![image](https://user-images.githubusercontent.com/1501327/156957195-29a43539-b5bf-48db-9f8b-99ae7479bd46.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156957355-5fb32419-9b4e-4066-a639-14038a3637ae.png)
+
+### settings.json
+```json
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.color": "#bfc553",
+    "material-icon-theme.opacity": 0.8,
+    "material-icon-theme.showWelcomeMessage": false
+}
+```
