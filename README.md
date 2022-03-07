@@ -50,6 +50,7 @@
 ### settings.json
 ```json
 {
+    "workbench.startupEditor": "none",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.color": "#bfc553",
     "material-icon-theme.opacity": 0.8,
