@@ -9,3 +9,14 @@
 ![image](https://user-images.githubusercontent.com/1501327/156951541-8005c5a6-1092-47a6-858d-29d4d6ca8456.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156951719-32102d19-5e2d-4bf8-87bc-2d6c7743c37d.png)
+
+![image](https://user-images.githubusercontent.com/1501327/156952057-8becd434-f998-4d2e-ba0d-b8d214476e6a.png)
+```json
+		"commands": [
+			{
+				"command": "extension.runTerminalCommand",
+				"-title": "Run Terminal Command...",
+				"title": "🟥 ターミナルコマンド"
+			}
+		],
+```
