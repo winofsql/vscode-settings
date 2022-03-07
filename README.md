@@ -35,6 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/156955258-4a5992f1-2b10-459a-baa8-e522cf2eefa8.png)
 
+### 初回のみ
 ![image](https://user-images.githubusercontent.com/1501327/156955190-92e14c26-c7e5-48ba-a5df-cbd5044d8dbb.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156955381-4bed881a-809b-433e-b548-2855804f4b39.png)
