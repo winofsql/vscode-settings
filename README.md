@@ -57,3 +57,23 @@
     "material-icon-theme.showWelcomeMessage": false
 }
 ```
+
+```reg
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\VSCode.code-workspace]
+@="Code Workspace ソース ファイル"
+
+[HKEY_CLASSES_ROOT\VSCode.code-workspace\DefaultIcon]
+@="C:\\app\\Microsoft VS Code\\Code.exe"
+
+[HKEY_CLASSES_ROOT\VSCode.code-workspace\shell]
+
+[HKEY_CLASSES_ROOT\VSCode.code-workspace\shell\open]
+"Icon"="\"C:\\app\\Microsoft VS Code\\Code.exe\""
+
+[HKEY_CLASSES_ROOT\VSCode.code-workspace\shell\open\command]
+@="\"C:\\app\\Microsoft VS Code\\Code.exe\" \"%1\""
+
+
+```
