@@ -58,6 +58,8 @@
 }
 ```
 
+![image](https://user-images.githubusercontent.com/1501327/156961781-999040d9-8edf-46ea-94fd-9027663fdff1.png)
+
 ### vscode-icon.reg
 ```reg
 Windows Registry Editor Version 5.00
