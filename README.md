@@ -24,4 +24,7 @@
 ### ダウンロード
 [vscode 用ワ－ススペーステンプレート](https://github.com/winofsql/subject)
 
-![image](https://user-images.githubusercontent.com/1501327/156952652-084723dc-55f1-4c92-9820-0ee95f82e9e2.png)
+![image](https://user-images.githubusercontent.com/1501327/156952692-e577f2f1-edee-4c72-9803-a467d0609875.png)
+
+![image](https://user-images.githubusercontent.com/1501327/156952787-c4f99f74-b883-426f-9aa5-04534105a1ff.png)
+
