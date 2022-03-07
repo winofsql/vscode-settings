@@ -20,6 +20,11 @@
 			}
 		],
 ```
+![image](https://user-images.githubusercontent.com/1501327/156953377-5f236079-ca2c-4364-b876-e5e4d26bb8a2.png)
+
+![image](https://user-images.githubusercontent.com/1501327/156953674-133664da-f61f-4995-ad6d-cf2644b86ad7.png)
+
+
 
 ### ダウンロード
 [vscode 用ワ－ススペーステンプレート](https://github.com/winofsql/subject)
@@ -27,9 +32,5 @@
 ![image](https://user-images.githubusercontent.com/1501327/156952692-e577f2f1-edee-4c72-9803-a467d0609875.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156952787-c4f99f74-b883-426f-9aa5-04534105a1ff.png)
-
-![image](https://user-images.githubusercontent.com/1501327/156953377-5f236079-ca2c-4364-b876-e5e4d26bb8a2.png)
-
-![image](https://user-images.githubusercontent.com/1501327/156953674-133664da-f61f-4995-ad6d-cf2644b86ad7.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156953420-fac989a3-e417-4a75-aa9e-a2d91c4b1ffa.png)
