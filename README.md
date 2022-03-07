@@ -58,6 +58,7 @@
 }
 ```
 
+### vscode-icon.reg
 ```reg
 Windows Registry Editor Version 5.00
 
