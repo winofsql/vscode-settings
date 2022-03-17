@@ -48,7 +48,14 @@
 ### settings.json
 ```json
 {
+    "-files.encoding": "shiftjis",
+    "files.autoSave": "afterDelay",
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "editor.unicodeHighlight.includeComments": true,
+    "window.zoomLevel": 1,
     "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.color": "#bfc553",
     "material-icon-theme.opacity": 0.8,
