@@ -75,7 +75,7 @@ Windows Registry Editor Version 5.00
 @="Code Workspace ソース ファイル"
 
 [HKEY_CLASSES_ROOT\VSCode.code-workspace\DefaultIcon]
-@="C:\\app\\Microsoft VS Code\\Code.exe"
+@="C:\\app2\\Microsoft VS Code\\Code.exe"
 
 [HKEY_CLASSES_ROOT\VSCode.code-workspace\shell]
 
@@ -83,7 +83,7 @@ Windows Registry Editor Version 5.00
 "Icon"="\"C:\\app\\Microsoft VS Code\\Code.exe\""
 
 [HKEY_CLASSES_ROOT\VSCode.code-workspace\shell\open\command]
-@="\"C:\\app\\Microsoft VS Code\\Code.exe\" \"%1\""
+@="\"C:\\app2\\Microsoft VS Code\\Code.exe\" \"%1\""
 
 
 ```
