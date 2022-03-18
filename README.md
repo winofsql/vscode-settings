@@ -55,6 +55,7 @@
     "editor.mouseWheelZoom": true,
     "editor.renderWhitespace": "all",
     "editor.unicodeHighlight.includeComments": true,
+    "editor.detectIndentation": false,
     "window.zoomLevel": 1,
     "workbench.startupEditor": "none",
     "security.workspace.trust.untrustedFiles": "open",
