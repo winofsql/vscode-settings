@@ -22,6 +22,8 @@
 			}
 		],
 ```
+> ## [ここから/色付絵文字](http://lightbox.on.coocan.jp/html/utf8tool.php) 好きなアイコンを使えばいいです
+
 ![image](https://user-images.githubusercontent.com/1501327/156953377-5f236079-ca2c-4364-b876-e5e4d26bb8a2.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/156953674-133664da-f61f-4995-ad6d-cf2644b86ad7.png)
