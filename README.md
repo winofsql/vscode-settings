@@ -47,7 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/156957355-5fb32419-9b4e-4066-a639-14038a3637ae.png)
 
-### settings.json
+### settings.json( 最初の最低限の設定 )
 ```json
 {
     "-files.encoding": "shiftjis",
